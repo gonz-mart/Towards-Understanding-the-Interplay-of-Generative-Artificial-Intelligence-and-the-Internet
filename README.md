@@ -2,6 +2,20 @@
 
 The present repository contains the code of the experiments of the paper:
 
+[[2306.06130] Towards Understanding the Interplay of Generative Artificial Intelligence and the Internet (arxiv.org)](https://arxiv.org/abs/2306.06130)
+
+
+Please cite:
+
+@misc{martínez2023understanding,
+      title={Towards Understanding the Interplay of Generative Artificial Intelligence and the Internet},
+      author={Gonzalo Martínez and Lauren Watson and Pedro Reviriego and José Alberto Hernández and Marc Juarez and Rik Sarkar},
+      year={2023},
+      eprint={2306.06130},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
 
 # Use
 
