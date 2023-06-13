@@ -6,7 +6,7 @@ The present repository contains the code of the experiments of the paper:
 
 
 Please cite:
-
+```
 @misc{martínez2023understanding,
       title={Towards Understanding the Interplay of Generative Artificial Intelligence and the Internet},
       author={Gonzalo Martínez and Lauren Watson and Pedro Reviriego and José Alberto Hernández and Marc Juarez and Rik Sarkar},
@@ -15,6 +15,7 @@ Please cite:
       archivePrefix={arXiv},
       primaryClass={cs.AI}
 }
+```
 
 
 # Use
